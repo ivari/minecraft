@@ -20,7 +20,22 @@ mod:
   - plots.middle
   - plots.home
   - simplespawn.spawn
+  - bukkit.command.kill
+  - minecraft.command.kill
   - plots.admin
+  - bukkit.command.kick
+  - minecraft.command.kick
+  - bukkit.command.ban.player
+  - minecraft.command.ban
+  - bukkit.command.ban.ip
+  - minecraft.command.ban-ip
+  - bukkit.command.unban.player
+  - minecraft.command.pardon
+  - bukkit.command.unban.ip
+  - minecraft.command.pardon-ip
+  - simplejail.jail
+  - simplejail.unjail
+  - simplejail.checkjail
 player:
   Prefix: ''
   Suffix: ''
@@ -40,3 +55,5 @@ player:
   - plots.middle
   - plots.home
   - simplespawn.spawn
+  - bukkit.command.kill
+  - minecraft.command.kill
