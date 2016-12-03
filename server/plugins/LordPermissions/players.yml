@@ -6,3 +6,13 @@
 
 
 
+
+
+
+
+
+ifsy:
+  Group: player
+  ExtraPermissions:
+  - lordpermissions.use
+  - lordpermissions.config
