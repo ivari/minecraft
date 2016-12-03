@@ -19,6 +19,7 @@ mod:
   - plots.unlink
   - plots.middle
   - plots.home
+  - simplespawn.spawn
   - plots.admin
 player:
   Prefix: ''
@@ -38,3 +39,4 @@ player:
   - plots.unlink
   - plots.middle
   - plots.home
+  - simplespawn.spawn
