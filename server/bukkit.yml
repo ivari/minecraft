@@ -42,5 +42,5 @@ database:
   password: walrus
   url: jdbc:sqlite:{DIR}{NAME}.db
 worlds:
-  ModeratorTest:
+  competition:
     generator: PlotSquared

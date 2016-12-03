@@ -1,5 +1,5 @@
 worlds:
-  ModeratorTest:
+  competition:
     plot:
       height: 64
       size: 100

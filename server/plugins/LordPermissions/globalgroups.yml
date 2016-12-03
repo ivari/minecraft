@@ -2,7 +2,7 @@
 GlobalSettings:
   Default: player
 mod:
-  Prefix: MOD
+  Prefix: '&7[&eADMIN&7]'
   Suffix: '&f'
   Permissions:
   - lordpermissions.default
@@ -10,8 +10,8 @@ mod:
   - time
   - time.set.lol
 player:
-  Prefix: '&7[&eplayer&7]'
-  Suffix: '&f'
+  Prefix: ''
+  Suffix: ''
   Permissions:
   - lordpermissions.default
   - lordpermissions.example
