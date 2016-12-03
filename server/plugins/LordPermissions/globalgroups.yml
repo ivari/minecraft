@@ -8,7 +8,7 @@ mod:
   - lordpermissions.default
   - lordpermissions.example
   - plots.use
-  - plots.plot.4
+  - plots.plot.9
   - plots.claim
   - plots.clear
   - plots.delete
@@ -16,13 +16,27 @@ mod:
   - plots.remove
   - plots.info
   - plots.merge
+  - plots.merge.other
+  - plots.merge.<#>
   - plots.unlink
   - plots.middle
   - plots.home
   - simplespawn.spawn
   - bukkit.command.kill
   - minecraft.command.kill
-  - plots.admin
+  - worldedit.wand
+  - worldedit.wand.toggle
+  - worldedit.selection.pos
+  - worldedit.selection.hpos
+  - worldedit.brush.sphere
+  - worldedit.brush.cylinder
+  - worldedit.fill
+  - worldedit.help
+  - worldedit.limit
+  - worldedit.generation.cylinder
+  - worldedit.generation.sphere
+  - worldedit.generation.pyramid
+  - plots.admin # admin starts here
   - plots.admin.interact.road
   - bukkit.command.kick
   - minecraft.command.kick
@@ -44,7 +58,7 @@ player:
   - lordpermissions.default
   - lordpermissions.example
   - plots.use
-  - plots.plot.4
+  - plots.plot.9
   - plots.claim
   - plots.clear
   - plots.delete
@@ -52,9 +66,23 @@ player:
   - plots.remove
   - plots.info
   - plots.merge
+  - plots.merge.other
+  - plots.merge.<#>
   - plots.unlink
   - plots.middle
   - plots.home
   - simplespawn.spawn
   - bukkit.command.kill
   - minecraft.command.kill
+  - worldedit.wand
+  - worldedit.wand.toggle
+  - worldedit.selection.pos
+  - worldedit.selection.hpos
+  - worldedit.brush.sphere
+  - worldedit.brush.cylinder
+  - worldedit.fill
+  - worldedit.help
+  - worldedit.limit
+  - worldedit.generation.cylinder
+  - worldedit.generation.sphere
+  - worldedit.generation.pyramid
