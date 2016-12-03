@@ -23,6 +23,7 @@ mod:
   - bukkit.command.kill
   - minecraft.command.kill
   - plots.admin
+  - plots.admin.interact.road
   - bukkit.command.kick
   - minecraft.command.kick
   - bukkit.command.ban.player
