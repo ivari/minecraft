@@ -1,0 +1,21 @@
+# Editable Settings
+SpawnOnJoin: true
+NoHungerLose: true
+NoFallDamage: true
+SpawnCommand: '&bWelcome To Spawn!'
+NoSpawnSet: '&cNo Spawn Set!'
+SetSpawnCommand: '&bSpawn Set!'
+HelpMenuLine1: '&3------=&bSimpleSpawn Help&3=------'
+HelpMenuLine2: '&a/spawn &3- &aTeleport to spawn.'
+HelpMenuLine3: '&a/setspawn &3- &aSet spawnpoint.'
+HelpMenuLine4: '&a/ssreload &3- &aReload the config.'
+HelpMenuLine5: '&3------=&bSimpleSpawn Help&3=------'
+ReloadCommand: '&bReloaded &3SimpleSpawn &bconfig!'
+NoPermission: '&cYou don''t have Permission!'
+spawn:
+  world: competition
+  x: -106.65030788729511
+  y: 170.0625
+  z: 212.7362320107752
+  yaw: 1.7997894
+  pitch: 29.399992

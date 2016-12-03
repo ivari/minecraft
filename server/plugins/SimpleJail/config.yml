@@ -1,0 +1,52 @@
+messages:
+  reload: §aConfiguration file reloaded!
+  unjail-success: §aSuccessfully unjailed player %player%!
+  unjail-fail: §cFailed to unjail player %player%! Check spelling?
+  jail-success: '§aSuccessfully jailed player %player%! Until: %until%. Reason: %reason%'
+  jail-fail: §cFailed to jail player %player%!
+  setjail-success: §aSuccessfully set jail point!
+  setunjail-success: §aSuccessfully set unjail point!
+  console-error: §cOnly players can use this command!
+  not-enough-arguments: §cNot enough arguments!
+  too-many-arguments: §cToo many arguments!
+  wrong-time-format: §cProvided time is not in valid format!
+  you-have-been-jailed: '§cYou have been jailed! Until: %until%. Reason: %reason%'
+  you-have-been-unjailed: §aYou have been unjailed!
+  correct-usage-jail: '§cCorrect usage: /jail <player> <time> <reason>'
+  correct-usage-unjail: '§cCorrect usage: /unjail <player>'
+  correct-usage-setjail: '§cCorrect usage: /setjail'
+  correct-usage-setunjail: '§cCorrect usage: /setunjail'
+  checkjail-not-jailed: §a%player% is not jailed!
+  checkjail-is-jailed: '§c%player% is jailed! Until: %until%. Reason: %reason%'
+  jail-unjail-does-not-exist: §cJail and/or unjail point does not exist!
+  cant-use-this-command: §cYou can't use this command while jailed!
+  no-permission: §cI'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe this is in error.
+commands:
+  filter: whitelist
+  filtered-list:
+  - message
+  - msg
+  - m
+  - tell
+  - t
+  - whisper
+  - w
+  - reply
+  - r
+  - me
+  - say
+points:
+  jail:
+    world: competition
+    x: -107.69999998807907
+    y: 159.0
+    z: 215.69999998807907
+    pitch: 31.04999351501465
+    yaw: -177.30023193359375
+  unjail:
+    world: competition
+    x: -106.65030788729511
+    y: 170.0625
+    z: 212.7362320107752
+    pitch: 20.54998779296875
+    yaw: 1.349790334701538
