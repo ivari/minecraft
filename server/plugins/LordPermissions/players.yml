@@ -6,9 +6,3 @@
 
 
 
-
-ifsy:
-  Group: mod
-  ExtraPermissions:
-  - lordpermissions.use
-  - lordpermissions.config
