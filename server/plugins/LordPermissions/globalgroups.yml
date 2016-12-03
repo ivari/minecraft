@@ -7,11 +7,34 @@ mod:
   Permissions:
   - lordpermissions.default
   - lordpermissions.example
-  - time
-  - time.set.lol
+  - plots.use
+  - plots.plot.4
+  - plots.claim
+  - plots.clear
+  - plots.delete
+  - plots.trust
+  - plots.remove
+  - plots.info
+  - plots.merge
+  - plots.unlink
+  - plots.middle
+  - plots.home
+  - plots.admin
 player:
   Prefix: ''
   Suffix: ''
   Permissions:
   - lordpermissions.default
   - lordpermissions.example
+  - plots.use
+  - plots.plot.4
+  - plots.claim
+  - plots.clear
+  - plots.delete
+  - plots.trust
+  - plots.remove
+  - plots.info
+  - plots.merge
+  - plots.unlink
+  - plots.middle
+  - plots.home
