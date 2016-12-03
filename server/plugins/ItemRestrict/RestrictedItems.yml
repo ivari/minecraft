@@ -25,6 +25,8 @@ OwnershipBanned:
 - 441:*:Potion:No potions, potions will kill the server!
 - 344:*:Egg:No eggs, spawning mobs is not allowed!
 - 97:*:StoneMonsterEggs:No eggs, spawning mobs is not allowed!
+- 383:*:SpawnMonsters:No eggs, spawning mobs is not allowed!
+- 52:*:Spawners:No spawners, spawning mobs is not allowed!
 
 #USAGE BANS - Block item or block usage only, also blocks entity damage! You don't need to add here items already added to OwnershipBanned.
 UsageBanned:
