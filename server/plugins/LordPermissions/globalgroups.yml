@@ -1,0 +1,29 @@
+# In this Config will be saved the Groups!
+GlobalSettings:
+  Default: player
+Default:
+  Prefix: '&7[&eDefault&7]'
+  Suffix: '&6'
+  Permissions:
+  - lordpermissions.default
+  - lordpermissions.example
+Moderators:
+  Prefix: '&7[&eModerators&7]'
+  Suffix: '&f'
+  Permissions:
+  - lordpermissions.default
+  - lordpermissions.example
+mod:
+  Prefix: MOD
+  Suffix: '&f'
+  Permissions:
+  - lordpermissions.default
+  - lordpermissions.example
+  - time
+  - time.set.lol
+player:
+  Prefix: '&7[&eplayer&7]'
+  Suffix: '&f'
+  Permissions:
+  - lordpermissions.default
+  - lordpermissions.example

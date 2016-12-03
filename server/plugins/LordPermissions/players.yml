@@ -1,0 +1,14 @@
+# In this Config you can find all Players with her Settings!
+
+
+
+
+
+
+
+
+ifsy:
+  Group: mod
+  ExtraPermissions:
+  - lordpermissions.use
+  - lordpermissions.config
