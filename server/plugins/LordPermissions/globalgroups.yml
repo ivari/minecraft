@@ -16,26 +16,53 @@ mod:
   - plots.remove
   - plots.info
   - plots.merge
-  - plots.merge.other
-  - plots.merge.<#>
+  - plots.merge.9
   - plots.unlink
   - plots.middle
   - plots.home
+  - plots.set.home
+  - plots.visit
+  - plots.visit.unowned
+  - plots.visit.owned
+  - plots.visit.shared
+  - plots.visit.other
   - simplespawn.spawn
-  - bukkit.command.kill
-  - minecraft.command.kill
-  - worldedit.wand
-  - worldedit.wand.toggle
-  - worldedit.selection.pos
-  - worldedit.selection.hpos
-  - worldedit.brush.sphere
-  - worldedit.brush.cylinder
-  - worldedit.fill
+  - worldedit.clipboard.cut
+  - worldedit.clipboard.copy
+  - worldedit.clipboard.paste
+  - worldedit.clipboard.flip
+  - worldedit.clipboard.rotate
   - worldedit.help
-  - worldedit.limit
   - worldedit.generation.cylinder
   - worldedit.generation.sphere
   - worldedit.generation.pyramid
+  - worldedit.history.undo
+  - worldedit.history.redo
+  - worldedit.history.clear
+  - worldedit.navigation.ascend
+  - worldedit.navigation.descend
+  - worldedit.navigation.ceiling
+  - worldedit.region.hollow
+  - worldedit.region.line
+  - worldedit.region.curve
+  - worldedit.region.walls
+  - worldedit.region.faces
+  - worldedit.region.move
+  - worldedit.region.replace
+  - worldedit.region.stack
+  - worldedit.selection.pos
+  - worldedit.selection.hpos1
+  - worldedit.selection.hpos2
+  - worldedit.wand
+  - worldedit.wand.toggle
+  - worldedit.selection.outset
+  - worldedit.selection.inset
+  - worldedit.selection.size
+  - worldedit.selection.expand
+  - worldedit.selection.shift
+  - worldedit.removeabove
+  - worldedit.removebelow
+  - worldedit.fill
   - plots.admin # admin starts here
   - plots.admin.interact.road
   - bukkit.command.kick
@@ -66,23 +93,50 @@ player:
   - plots.remove
   - plots.info
   - plots.merge
-  - plots.merge.other
-  - plots.merge.<#>
+  - plots.merge.9
   - plots.unlink
   - plots.middle
   - plots.home
+  - plots.set.home
+  - plots.visit
+  - plots.visit.unowned
+  - plots.visit.owned
+  - plots.visit.shared
+  - plots.visit.other
   - simplespawn.spawn
-  - bukkit.command.kill
-  - minecraft.command.kill
-  - worldedit.wand
-  - worldedit.wand.toggle
-  - worldedit.selection.pos
-  - worldedit.selection.hpos
-  - worldedit.brush.sphere
-  - worldedit.brush.cylinder
-  - worldedit.fill
+  - worldedit.clipboard.cut
+  - worldedit.clipboard.copy
+  - worldedit.clipboard.paste
+  - worldedit.clipboard.flip
+  - worldedit.clipboard.rotate
   - worldedit.help
-  - worldedit.limit
   - worldedit.generation.cylinder
   - worldedit.generation.sphere
   - worldedit.generation.pyramid
+  - worldedit.history.undo
+  - worldedit.history.redo
+  - worldedit.history.clear
+  - worldedit.navigation.ascend
+  - worldedit.navigation.descend
+  - worldedit.navigation.ceiling
+  - worldedit.region.hollow
+  - worldedit.region.line
+  - worldedit.region.curve
+  - worldedit.region.walls
+  - worldedit.region.faces
+  - worldedit.region.move
+  - worldedit.region.replace
+  - worldedit.region.stack
+  - worldedit.selection.pos
+  - worldedit.selection.hpos1
+  - worldedit.selection.hpos2
+  - worldedit.wand
+  - worldedit.wand.toggle
+  - worldedit.selection.outset
+  - worldedit.selection.inset
+  - worldedit.selection.size
+  - worldedit.selection.expand
+  - worldedit.selection.shift
+  - worldedit.removeabove
+  - worldedit.removebelow
+  - worldedit.fill
