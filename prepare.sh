@@ -11,9 +11,8 @@ mkdir build
 mkdir server
 
 cd build
-wget -O BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
 git config --global --unset core.autocrlf
-java -jar BuildTools.jar --rev 1.11
+java -jar BuildTools.jar --rev 1.12.1
 cd ..
 
-cp build/spigot-1.11.jar server/
+cp build/spigot-1.12.1.jar server/

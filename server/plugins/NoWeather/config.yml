@@ -1,7 +1,0 @@
-# DisableWeather
-# Author MatrixKhan aka zvarnick
-# Version 1.1
-
-# Choose what worlds you want to disable it can be as many as you want
-worlds:
-    'competition'
