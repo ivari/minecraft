@@ -7,7 +7,6 @@ sudo apt-get install git tar openjdk-8-jdk
 git pull
 git checkout
 
-mkdir build
 mkdir server
 
 cd build
