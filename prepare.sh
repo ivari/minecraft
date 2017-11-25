@@ -11,7 +11,8 @@ mkdir server
 
 cd build
 git config --global --unset core.autocrlf
-java -jar BuildTools.jar --rev 1.12.1
+java -jar BuildTools.jar --rev 1.12.2
 cd ..
 
-cp build/spigot-1.12.1.jar server/
+cp build/spigot-1.12.2.jar server/spigot.jar
+cd server
