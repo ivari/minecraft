@@ -21,8 +21,8 @@ worlds:
       height: 64
       block: '155:0'
     generator:
-      type: 1
-      terrain: 2
+      type: 0
+      terrain: 0
       plugin: PlotSquared
     misc_spawn_unowned: false
     home:
