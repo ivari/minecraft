@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f566f049-8dbd-49e2-bb53-0e49666d0e3e",
+    "name": "ifsy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
