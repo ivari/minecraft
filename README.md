@@ -14,4 +14,4 @@ The competition includes Spigot Minecraft server to run the necessary mods to pr
 2. Install git if needed ( `apt-get install git` )
 3. Clone the repository ( `git clone https://github.com/ivari/minecraft.git` )
 4. Navigate to the cloned folder ( `cd minecraft` )
-5. Run ./prepare.sh
+5. Run prepare.sh ( `bash ./prepare.sh` )
