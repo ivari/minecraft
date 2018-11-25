@@ -10,7 +10,7 @@ The competition includes Spigot Minecraft server to run the necessary mods to pr
 
 # Installation
 
-1. Prepare a VM with Ubuntu LTS release
+1. Prepare a VM with Ubuntu LTS release ( allowing incoming ports `22` and `25565` )
 2. Install git if needed ( `apt-get install git` )
 3. Clone the repository ( `git clone https://github.com/ivari/minecraft.git` )
 4. Navigate to the cloned folder ( `cd minecraft` )
