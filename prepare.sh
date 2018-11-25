@@ -3,7 +3,7 @@
 # Refresh server state
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install git tar openjdk-11-jdk
+sudo apt-get install git tar openjdk-11-jdk sqlite
 
 # Refresh repository state
 git pull
